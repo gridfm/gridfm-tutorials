@@ -1,17 +1,12 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gridfm/gridfm-graphkit/refs/heads/main/docs/figs/KIT.png" alt="GridFM" width="280">
-</p>
+# GridFM tutorials
 
-<h1 align="center">GridFM tutorials</h1>
+The repo contains tutorials using opengridfm libraries. More tutorials to come.
 
-<p align="center">
-  The repo contains tutorials using opengridfm libraries. More tutorials to come.
-</p>
 
-**Tutorials on graphkit/ GENCO:**
+## Tutorials on graphkit/ GENCO:
 
 - Train a GENCO model for AC optimal power flow [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gridfm/gridfm-graphkit/blob/lfe-tutorial/examples/notebooks/Tutorial_opf_colab.ipynb#scrollTo=41258ab0)
 
-**Tutorials on datakit:**
+## Tutorials on datakit:
 
 - Build steady-state and dynamic datasets with PowSyBl and Dynawo, the GridFM 2026 Porto tutorial, in [datakit/powsybl-dynawo](datakit/powsybl-dynawo) [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/gfm6w/tutorial?quickstart=1)
